@@ -104,6 +104,7 @@
                 "pages/tver-page.js",
                 "pages/bandai-channel-page.js",
                 "pages/amazon-prime-page.js",
+                "pages/iqiyi.js",
                 "pages/hulu-page.js",
                 "pages/disney-plus-page.js",
                 "pages/apps-disney-plus-page.js",

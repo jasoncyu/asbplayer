@@ -141,6 +141,14 @@
             "autoSync": {
                 "enabled": true
             }
+        },
+        {
+            "host": "www.iq.com",
+            "script": "iqiyi.js",
+            "path": ".*",
+            "autoSync": {
+                "enabled": true
+            }
         }
     ]
 }
